@@ -26,7 +26,7 @@
   // Production
   $app_id = 701024569951996;
   $app_secret = 'c6dea534b5b742f87319a479c124357d';
-  $app_namespace = 'YOUR_APP_NAMESPACE';
+  $app_namespace = 'apollo-forsaken';
 
   $app_url = 'http://apps.facebook.com/' . $app_namespace . '/';
   $scope = 'email,publish_actions';
