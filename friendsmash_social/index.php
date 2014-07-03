@@ -24,7 +24,7 @@
   require 'server/fb-php-sdk/facebook.php';
 
   // Production
-  $app_id = 'YOUR_APP_ID';
+  $app_id = 701024569951996;
   $app_secret = 'YOUR_APP_SECRET';
   $app_namespace = 'YOUR_APP_NAMESPACE';
 
