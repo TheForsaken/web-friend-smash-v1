@@ -28,8 +28,8 @@
   $app_secret = 'c6dea534b5b742f87319a479c124357d';
   $app_namespace = 'apollo-forsaken';
 
-  //$app_url = 'http://apps.facebook.com/' . $app_namespace . '/';
-  $app_url= 'http://facebook-face-smash.herokuapp.com/';
+  $app_url = 'http://apps.facebook.com/' . $app_namespace . '/';
+  //$app_url= 'http://facebook-face-smash.herokuapp.com/';
   
   $scope = 'email,publish_actions';
 
